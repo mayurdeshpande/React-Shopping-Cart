@@ -1,0 +1,67 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Samsung S1",
+            "desc": "best product",
+            "price": 10000,
+            "url": "images/s-1.png"
+        },
+        {
+            "id": 2,
+            "title": "Samsung S2",
+            "desc": "best product",
+            "price": 20000,
+            "url": "images/s-2.png"
+        },
+        {
+            "id": 3,
+            "title": "Samsung S3",
+            "desc": "best product",
+            "price": 15000,
+            "url": "images/s-3.png"
+        },
+        {
+            "id": 4,
+            "title": "Apple iPhone 11",
+            "desc": "best product",
+            "price": 10000,
+            "url": "images/i-1.png"
+        },
+        {
+            "id": 5,
+            "title": "Apple iPhone 12",
+            "desc": "best product",
+            "price": 20000,
+            "url": "images/i-2.png"
+        },
+        {
+            "id": 6,
+            "title": "Apple iPhone 13",
+            "desc": "best product",
+            "price": 15000,
+            "url": "images/i-1.png"
+        },
+        {
+            "id": 7,
+            "title": "One Plus 9",
+            "desc": "best product",
+            "price": 10000,
+            "url": "images/s-1.png"
+        },
+        {
+            "id": 8,
+            "title": "One Plus 8",
+            "desc": "best product",
+            "price": 20000,
+            "url": "images/s-2.png"
+        },
+        {
+            "id": 9,
+            "title": "One Plus 7",
+            "desc": "best product",
+            "price": 15000,
+            "url": "images/s-3.png"
+        }
+    ]
+}
